@@ -7,6 +7,7 @@ book:
   author: "Édipo H. Cremon"
   date: "03/10/2026"
   cover-image: fig/capa.png
+  downloads: [pdf]
   chapters:
     - index.qmd
     - intro.qmd

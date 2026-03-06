@@ -34,6 +34,10 @@ Em termos de aceitação global, a Geomática é o termo preferencial no Canadá
 
 Essa distribuição geográfica de uso reflete diferentes tradições acadêmicas e percursos históricos. Enquanto no Canadá e na França a adoção do termo esteve ligada a políticas explícitas de modernização profissional e educacional, nos Estados Unidos a preferência por GIScience (Ciência da Informação Geográfica) evidencia uma tradição de maior ênfase nos fundamentos teóricos e cognitivos da informação geoespacial, em detrimento da abordagem mais voltada à engenharia de agrimensura característica da geomática. Essa tensão terminológica, longe de ser um problema, demonstra a riqueza e a complexidade do campo, que comporta múltiplas perspectivas igualmente legítimas para o estudo do espaço geográfico.
 
+::: caixa-cinza
+![Ilustração da diferença conceitual entre geomática e geoinformática, enfatizando a predominância do componente geo na geomática e do componente informática na geoinformática. Fonte: @Krawczyk2022.](fig/geomatica_geoinformatica.png){fig-align="center"}
+:::
+
 ## GIScience / Ciência da Geoinformação
 
 A expressão GIScience (*Geographic Information Science*) pode ser interpretada literalmente como “ciência da informação geográfica”, ou seja, o estudo científico da informação associada à localização e aos processos espaciais. Na América Latina, e em particular no Brasil, a literatura acadêmica frequentemente utiliza a expressão "Ciência da Geoinformação", adotada por autores como @CâmaraMont2001, como tradução conceitual próxima à GIScience.
@@ -158,4 +162,4 @@ As funções de consulta e análise espacial constituem o núcleo analítico do 
 
 Por fim, o componente de armazenamento e recuperação de dados corresponde ao sistema de gerenciamento do banco de dados geográficos, no qual são organizadas as geometrias, atributos e relações espaciais necessárias ao funcionamento do SIG. Esse banco de dados permite o acesso eficiente às informações e sustenta as operações de consulta e análise realizadas pelo sistema (@camara2001arquitetura).
 
-![Estrutura Geral de SIG. Baseado em: @camara2001arquitetura](fig/arquitetura.png){fig-align="center"}
+![Estrutura Geral de SIG. Baseado em: @camara2001arquitetura .](fig/arquitetura.png){fig-align="center"}

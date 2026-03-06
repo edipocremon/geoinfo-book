@@ -1,8 +1,0 @@
-.caixa-cinza {
-  background-color: #f0f0f0;  /* cinza claro */
-  padding: 1em;                /* espaçamento interno */
-  border-radius: 8px;          /* bordas arredondadas */
-  margin: 1em 0;               /* margem externa */
-  /* opcional: sombra leve */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
