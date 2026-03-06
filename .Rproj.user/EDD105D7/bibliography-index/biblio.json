@@ -1,0 +1,637 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1093/comjnl/27.2.97",
+            "ISSN": "0010-4620",
+            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
+            "author": [
+                {
+                    "family": "Knuth",
+                    "given": "Donald E."
+                }
+            ],
+            "container-title": "Comput. J.",
+            "id": "knuth84",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984,
+                        5
+                    ]
+                ]
+            },
+            "page": "97-111",
+            "publisher": "Oxford University Press, Inc.",
+            "publisher-place": "USA",
+            "title": "Literate programming",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.3390/ijgi11110557",
+            "ISSN": "2220-9964",
+            "URL": "https://www.mdpi.com/2220-9964/11/11/557",
+            "abstract": "The article attempts to redefine the names for the research area, which is the use of information systems for the analysis and management of spatial data. To resolve the nomenclature issues, the studies were conducted into the structure evolution of spatial data, and on software for these data processing, GIS acronyms were reviewed; another study was performed by means of terminological analogies, comparing definitions of similar, in terms of word formation, names referred to other areas of research. Moreover, questionnaires of job positions were analysed and, based on a literature review, the nomenclature used to define the field of studies on spatial data was analysed. The conducted studies resulted in the development of seven terminological postulates intended for the formulation of limitations and rules to give new definitions. The new author’s definitions of geomatics and geoinformatics terms are presented at the end of the paper.",
+            "author": [
+                {
+                    "family": "Krawczyk",
+                    "given": "Artur"
+                }
+            ],
+            "container-title": "ISPRS International Journal of Geo-Information",
+            "id": "Krawczyk2022",
+            "issue": "11",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "Proposal of redefinition of the terms geomatics and geoinformatics on the basis of terminological postulates",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "author": [
+                {
+                    "family": "Olędzki",
+                    "given": "Jan Romuald"
+                },
+                {
+                    "family": "Kwiatkowska",
+                    "given": "Joanna M"
+                }
+            ],
+            "container-title": "Miscellanea Geographica. Regional Studies on Development",
+            "id": "olkedzki2004",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004
+                    ]
+                ]
+            },
+            "page": "323-331",
+            "publisher": "Uniwersytet Warszawski. Wydział Geografii i Studiów Regionalnych",
+            "title": "Geoinformatics-an integrated spatial research tool",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "abstract": "O problema de modelagem computacional do espaço geográfico. Paradigma dos quatro universos como suporte a problemas de modelagem. Tipos de dados em geoinformação: mapa temático, cadastro, redes, imagens, MNTs, tabelas. Modelo de referência em GIS: campos e objetos. Universo matemático: definição formal de objeto geográfico.Universo de representação: definições de topologia, tipos de representação(matricial e vetorial). Exemplos de sistemas reais: SPRING, ARC/INFO, ARC/VIEW, IDRISI, MGE.",
+            "author": [
+                {
+                    "family": "Câmara",
+                    "given": "Gilberto"
+                },
+                {
+                    "family": "Monteiro",
+                    "given": "Antonio Miguel Vieira"
+                }
+            ],
+            "container-title": "Introdução à ciência da geoinformação",
+            "editor": [
+                {
+                    "family": "Câmara",
+                    "given": "Gilberto"
+                },
+                {
+                    "family": "Davis",
+                    "given": "Clodoveu"
+                },
+                {
+                    "family": "Monteiro",
+                    "given": "Antônio Miguel Vieira"
+                }
+            ],
+            "id": "CâmaraMont2001",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "keyword": "GEOPROCESSAMENTO, grades computacionais, modelos matemáticos, mapeador temático (Landsat), Sistemas de Informação Geográfica (SIG), computacional grades, mathematical models, thematic mappers (Landsat), geographica information systems, GIS.",
+            "page": "35",
+            "publisher": "INPE",
+            "publisher-place": "São José dos Campos",
+            "title": "Conceitos basicos em ciência da geoinformação",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Câmara",
+                    "given": "Gilberto"
+                },
+                {
+                    "dropping-particle": "de",
+                    "family": "Queiroz",
+                    "given": "Gilberto Ribeiro"
+                }
+            ],
+            "container-title": "Introdução à ciência da geoinformação",
+            "editor": [
+                {
+                    "family": "Câmara",
+                    "given": "Gilberto"
+                },
+                {
+                    "family": "Davis",
+                    "given": "Clodoveu"
+                },
+                {
+                    "family": "Monteiro",
+                    "given": "Antônio Miguel Vieira"
+                }
+            ],
+            "id": "camara2001arquitetura",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "keyword": "GEOPROCESSAMENTO, grades computacionais, modelos matemáticos, mapeador temático (Landsat), Sistemas de Informação Geográfica (SIG), computational grids, mathematical models, thematic mappers (Landsat), geographical information systems, GIS",
+            "page": "35",
+            "publisher": "INPE",
+            "publisher-place": "São José dos Campos",
+            "title": "Arquitetura de sistemas de informação geográfica",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Burrough",
+                    "given": "Peter A."
+                }
+            ],
+            "id": "burrough1986",
+            "issued": {
+                "date-parts": [
+                    [
+                        1986
+                    ]
+                ]
+            },
+            "publisher": "Oxford University Press",
+            "publisher-place": "Oxford, England",
+            "title": "Principles of geographical information systems for land resources assessment",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Aronoff",
+                    "given": "Stan"
+                }
+            ],
+            "id": "aronoff1989",
+            "issued": {
+                "date-parts": [
+                    [
+                        1989
+                    ]
+                ]
+            },
+            "publisher": "WDL Publications",
+            "publisher-place": "Ottawa",
+            "title": "Geographical information systems: A management perspective",
+            "title-short": "Geographical information systems",
+            "type": "book"
+        },
+        {
+            "ISBN": "9788120321748",
+            "author": [
+                {
+                    "family": "Clarke",
+                    "given": "Keith C."
+                },
+                {
+                    "family": "Parks",
+                    "given": "Bradley O."
+                },
+                {
+                    "family": "Crane",
+                    "given": "Michael P."
+                }
+            ],
+            "edition": "1",
+            "id": "clarke2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "publisher": "Prentice-Hall of India Pvt. Ltd.",
+            "publisher-place": "New Delhi",
+            "title": "Geographic information systems and environmental modeling",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Brodeur",
+                    "given": "Jean"
+                }
+            ],
+            "container-title": "Geomatica",
+            "id": "brodeur2001",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "page": "91-106",
+            "publisher": "Canadian Science Publishing 65 Auriga Drive, Suite 203, Ottawa, ON K2E 7W6",
+            "title": "Standardization in geomatics: In canada and in ISO/TC 211",
+            "title-short": "Standardization in geomatics",
+            "type": "article-journal",
+            "volume": "55"
+        },
+        {
+            "DOI": "10.3133/sir20075199",
+            "ISSN": "2328-0328",
+            "URL": "https://doi.org/10.3133/sir20075199",
+            "author": [
+                {
+                    "family": "Brady",
+                    "given": "Shailaja R."
+                },
+                {
+                    "family": "Sinha",
+                    "given": "A. Krishna"
+                },
+                {
+                    "family": "Gundersen",
+                    "given": "Linda C."
+                }
+            ],
+            "collection-title": "Scientific investigations report",
+            "id": "brady2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "note": "vi, 104 p.",
+            "number": "2007-5199",
+            "publisher": "U.S. Geological Survey",
+            "publisher-place": "Reston, VA",
+            "title": "Geoinformatics 2007: Data to knowledge",
+            "title-short": "Geoinformatics 2007",
+            "type": "report"
+        },
+        {
+            "author": [
+                {
+                    "family": "Goodchild",
+                    "given": "Michael F"
+                }
+            ],
+            "container-title": "International journal of geographical information systems",
+            "id": "goodchild1992",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "page": "31-45",
+            "publisher": "Taylor & Francis",
+            "title": "Geographical information science",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.17226/10335",
+            "ISBN": "9780309092081",
+            "URL": "https://doi.org/10.17226/10335",
+            "author": [
+                {
+                    "literal": "National Research Council"
+                }
+            ],
+            "container-title": "Learning to think spatially: GIS as a support system in the k-12 curriculum",
+            "id": "NRC2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "publisher": "National Academies Press",
+            "publisher-place": "Washington, DC",
+            "title": "What is GIScience?",
+            "type": "chapter"
+        },
+        {
+            "ISBN": "9781118676950",
+            "author": [
+                {
+                    "family": "Longley",
+                    "given": "Paul A."
+                },
+                {
+                    "family": "Goodchild",
+                    "given": "Michael F."
+                },
+                {
+                    "family": "Maguire",
+                    "given": "David J."
+                },
+                {
+                    "family": "Rhind",
+                    "given": "David W."
+                }
+            ],
+            "edition": "4",
+            "id": "longley2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "publisher-place": "Chichester",
+            "title": "Geographic information science and systems",
+            "type": "book"
+        },
+        {
+            "URL": "http://urlib.net/ibi/6qtX3pFwXQZ3ukuKE/BQGus",
+            "abstract": "Este livro tem por objetivo oferecer um panorama geral da disciplina de Ciência da Geoinformação, para servir como obra de referência. Seu público-alvo são usuários de Geotecnologias, em todos os setores de aplicação, bem como desenvolvedores de sistemas e aplicações na área. Este livro faz parte de uma trilogia sobre o tema de Ciência e Engenharia da Geoinformação, que consta de tres livros. No primeiro livro (\"Introdução à Ciência da Geoinformação\"), apresentam-se os conceitos básicos dessa tecnologia: tipos de dados, noções de cartografia, operações, entrada e visualização de dados. Esta parte apresenta ainda uma visão geral de diferentes classes de aplicações: cadastro urbano e estudos ambientais. A segunda parte (\"Análise Espacial\") está concentrada nos processos quantitativos de exploração e manipulação de dados geográficos: geoestatística, estatística espacial, suporte à decisão. A terceira parte ( \"Bancos de Dados Geográficos\") discute em maior detalhe os problemas de organização de dados: arquiteturas de bancos de dados espaciais, modelos espaço-temporais, interoperabilidade, Internet. O livro pretende servir de base para cursos introdutórios e avançados em Geoprocessamento. Em especial, seu conteúdo é adotado em cursos de Pós-Graduação em Computação Aplicada e Sensoriamento Remoto do INPE. Para maiores detalhes, favor consultar as homepages dos cursos \"Introdução ao Geoprocessamento\", \"Análise Espacial\" e \"Bancos de Dados Geográficos\".",
+            "author": [
+                {
+                    "family": "Câmara",
+                    "given": "Gilberto"
+                },
+                {
+                    "family": "Davis",
+                    "given": "Clodoveu"
+                },
+                {
+                    "family": "Monteiro",
+                    "given": "Antônio Miguel Vieira"
+                }
+            ],
+            "id": "CâmaraDaviMont2001",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "keyword": "GEOPROCESSAMENTO, geotecnologias, geoinformação.",
+            "page": "344",
+            "publisher": "INPE",
+            "publisher-place": "São José dos Campos",
+            "title": "Introdução à ciência da geoinformação",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1038/nj6972-376a",
+            "URL": "https://doi.org/10.1038/nj6972-376a",
+            "author": [
+                {
+                    "family": "Gewin",
+                    "given": "Virginia"
+                }
+            ],
+            "container-title": "Nature",
+            "id": "Gewin2004",
+            "issue": "6972",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004
+                    ]
+                ]
+            },
+            "page": "376-377",
+            "title": "Mapping opportunities",
+            "type": "article-journal",
+            "volume": "427"
+        },
+        {
+            "ISBN": "9780080215945",
+            "URL": "https://books.google.com.br/books?id=Svk1AQAAIAAJ",
+            "author": [
+                {
+                    "family": "Roberts",
+                    "given": "A. F."
+                }
+            ],
+            "collection-title": "Pergamon international library of science, technology, engineering, and social studies",
+            "id": "roberts1977",
+            "issued": {
+                "date-parts": [
+                    [
+                        1977
+                    ]
+                ]
+            },
+            "publisher": "Pergamon Press",
+            "title": "Geotechnology: An introductory text for students and engineers",
+            "title-short": "Geotechnology",
+            "type": "book"
+        },
+        {
+            "DOI": "https://doi.org/10.1111/gec3.12537",
+            "URL": "https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/gec3.12537",
+            "author": [
+                {
+                    "family": "Scheider",
+                    "given": "Simon"
+                },
+                {
+                    "family": "Nyamsuren",
+                    "given": "Enkhbold"
+                },
+                {
+                    "family": "Kruiger",
+                    "given": "Han"
+                },
+                {
+                    "family": "Xu",
+                    "given": "Haiqi"
+                }
+            ],
+            "container-title": "Geography Compass",
+            "id": "Scheider2020",
+            "issue": "11",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "keyword": "community of practice, geographic data science, Geography, GIScience, meta-science, scientific concepts, scientific questions",
+            "page": "e12537",
+            "title": "Why geographic data science is not a science",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "URL": "https://arxiv.org/abs/2007.08087",
+            "author": [
+                {
+                    "family": "Hu",
+                    "given": "Yingjie"
+                }
+            ],
+            "id": "hu2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "Starting with data: Advancing spatial data science by building and sharing high-quality datasets",
+            "title-short": "Starting with data",
+            "type": ""
+        },
+        {
+            "DOI": "10.1002/9781118786352.wbieg",
+            "author": [
+                {
+                    "family": "Anselin",
+                    "given": "Luc"
+                }
+            ],
+            "container-title": "The international encyclopedia of geography: People, the earth, environment, and technology",
+            "editor": [
+                {
+                    "family": "Richardson",
+                    "given": "Douglas"
+                }
+            ],
+            "id": "anselin2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "publisher": "John Wiley & Sons",
+            "publisher-place": "Hoboken, NJ",
+            "title": "Spatial data science",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1002/9781118786352.wbieg0841",
+            "author": [
+                {
+                    "family": "Waters",
+                    "given": "Nigel"
+                }
+            ],
+            "container-title": "The international encyclopedia of geography: People, the earth, environment and technology",
+            "editor": [
+                {
+                    "family": "Richardson",
+                    "given": "Douglas"
+                },
+                {
+                    "family": "Castree",
+                    "given": "Noel"
+                },
+                {
+                    "family": "Goodchild",
+                    "given": "Michael F."
+                },
+                {
+                    "family": "Kobayashi",
+                    "given": "Audrey"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Weidong"
+                },
+                {
+                    "family": "Marston",
+                    "given": "Richard A."
+                }
+            ],
+            "id": "waters2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "publisher-place": "Chichester",
+            "title": "GIS: history",
+            "title-short": "GIS",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Tomlinson",
+                    "given": "Roger F."
+                }
+            ],
+            "id": "tomlinson1967",
+            "issued": {
+                "date-parts": [
+                    [
+                        1967
+                    ]
+                ]
+            },
+            "publisher": "Agricultural; Rural Development Administration",
+            "publisher-place": "Ottawa, ON, Canada",
+            "title": "An introduction to the geo-information system of the canada land inventory",
+            "type": "report"
+        },
+        {
+            "author": [
+                {
+                    "family": "Burrough",
+                    "given": "Peter A."
+                },
+                {
+                    "family": "McDonnell",
+                    "given": "Rachael A."
+                }
+            ],
+            "id": "burrough1998",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "publisher": "Oxford University Press",
+            "publisher-place": "Oxford",
+            "title": "Principles of geographical information systems",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

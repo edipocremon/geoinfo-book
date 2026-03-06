@@ -1,0 +1,9 @@
+# Apresentação
+
+Este material didático foi elaborado com o objetivo de oferecer uma base conceitual e metodológica para o estudo da Geoinformática, área dedicada ao desenvolvimento e à aplicação de métodos computacionais voltados à análise de fenômenos que possuem localização na superfície terrestre e apresentam variação no tempo e no espaço. O avanço das tecnologias de aquisição, armazenamento e processamento de dados geográficos tem ampliado significativamente as possibilidades de investigação científica e de suporte à tomada de decisão em diferentes domínios de aplicação.
+
+Nas últimas décadas, a crescente disponibilidade de dados geoespaciais provenientes de sensores orbitais, redes de monitoramento ambiental, dispositivos móveis e iniciativas de produção colaborativa de informação geográfica ampliou a complexidade dos problemas associados à gestão e análise de dados espaciais. Nesse contexto, a Geoinformática integra conceitos provenientes da ciência da computação, da geografia, da estatística e da ciência de dados para desenvolver métodos capazes de representar, armazenar, processar e analisar grandes volumes de dados geográficos e espaço-temporais.
+
+Este material organiza os principais conceitos necessários para compreender o funcionamento dos sistemas de informação geográfica e das tecnologias associadas ao processamento de dados espaciais.
+
+O material foi desenvolvido (e está em desenvolvimento) para apoiar atividades de ensino em disciplinas de Geoinformática e áreas correlatas, combinando fundamentos teóricos com exemplos aplicados e referências à literatura científica. Espera-se que, ao final do estudo, o leitor seja capaz de compreender os principais conceitos associados à análise de dados geoespaciais e utilizá-los no desenvolvimento de projetos de pesquisa ou aplicações voltadas à resolução de problemas reais.
